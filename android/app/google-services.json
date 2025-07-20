@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344857300074",
+    "project_id": "flutter-dr-ddae8",
+    "storage_bucket": "flutter-dr-ddae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344857300074:android:1c369ae4a91e822bb20e13",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxZXwW68w-VvuhN73V6XuosPn0GzRC55M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
