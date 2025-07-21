@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCIGsFGHF2usPa7frbYquB0gKXFXuYCdq8',
-    appId: '1:344857300074:web:2f171db2d012f504b20e13',
+    apiKey: '-',
+    appId: '-',
     messagingSenderId: '344857300074',
     projectId: 'flutter-dr-ddae8',
     authDomain: 'flutter-dr-ddae8.firebaseapp.com',
@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAxZXwW68w-VvuhN73V6XuosPn0GzRC55M',
-    appId: '1:344857300074:android:1c369ae4a91e822bb20e13',
+    apiKey: '-',
+    appId: '-',
     messagingSenderId: '344857300074',
     projectId: 'flutter-dr-ddae8',
     storageBucket: 'flutter-dr-ddae8.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBrxCeX2kSpC4KGHSE-MWY7NFhmHe-zkFM',
-    appId: '1:344857300074:ios:29d4bc4759ec74c2b20e13',
+    apiKey: '-',
+    appId: '-',
     messagingSenderId: '344857300074',
     projectId: 'flutter-dr-ddae8',
     storageBucket: 'flutter-dr-ddae8.appspot.com',
@@ -67,8 +67,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBrxCeX2kSpC4KGHSE-MWY7NFhmHe-zkFM',
-    appId: '1:344857300074:ios:29d4bc4759ec74c2b20e13',
+    apiKey: '-',
+    appId: '-',
     messagingSenderId: '344857300074',
     projectId: 'flutter-dr-ddae8',
     storageBucket: 'flutter-dr-ddae8.appspot.com',
@@ -76,8 +76,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCIGsFGHF2usPa7frbYquB0gKXFXuYCdq8',
-    appId: '1:344857300074:web:3c9af2f52ae4fc19b20e13',
+    apiKey: '-',
+    appId: '-',
     messagingSenderId: '344857300074',
     projectId: 'flutter-dr-ddae8',
     authDomain: 'flutter-dr-ddae8.firebaseapp.com',
