@@ -4,4 +4,4 @@ A simple mobile application used to detect diabetic retinopathy.
 
 
 
-Welcome Page        Login Page        Registration Page
+Welcome Page                            Login Page                              Registration Page
